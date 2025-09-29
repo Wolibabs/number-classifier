@@ -13,3 +13,6 @@ Validates integer input (accepts negative integers)
 
 ## API Documentation
 https://documenter.getpostman.com/view/47623253/2sB3QDwsvY
+
+## Live API URL
+ Available at your primary URL https://number-classifier-k2sm.onrender.com
