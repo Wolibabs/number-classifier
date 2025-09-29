@@ -19,6 +19,8 @@ async function getFact(number) {
     factCache.set(key, { text, expiresAt: now + CACHE_TTL_MS });
     return text;
 }
+
+
 exports.classifyNumber = async (req, res) => {
   try {
     const numberParam = req.query.number;
